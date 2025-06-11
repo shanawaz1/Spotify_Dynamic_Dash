@@ -83,7 +83,7 @@ This project presents a visually engaging and interactive Power BI dashboard bui
 
 ## Screenshot
 
-![Spotify Track Analytics Power BI Dashboard](image.jpg)
+![Spotify Track Analytics Power BI Dashboard](image.png)
 
 ---
 
