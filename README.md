@@ -14,6 +14,9 @@ This project presents a visually engaging and interactive Power BI dashboard bui
 - **Album Cover Integration:**  
   A Python script authenticates with the Spotify API using client credentials, fetches album cover URLs based on track names, and appends them to the dataset. The dashboard displays album covers using the HTML Content visual for a richer user experience.
 
+- **Reset Button:**  
+  A reset Button to clear all the filters and start from the initial page.
+  
 - **Audio Feature Analysis:**  
   The dashboard includes cards showing key audio features for selected tracks/albums:
     - Acoustiness %
